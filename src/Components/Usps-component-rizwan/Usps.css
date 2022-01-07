@@ -1,0 +1,15 @@
+.main {
+  background-color: rgb(245, 233, 234);
+  width: 300px;
+  height: 600px;
+  border: black solid 2px;
+  line-height: 10px;
+}
+.Box{
+    width: 280px;
+    height: 150px;
+    background-color: rgb(207, 207, 207);
+    /* text-align: center; */
+
+    
+}
